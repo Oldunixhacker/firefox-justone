@@ -1,7 +1,8 @@
 # JustOne
 
-A simple hack to remove tabs from Firefox, leaving you with the address bar. Designed
-for **Firefox 82+**.
+A simple hack to remove tabs from Firefox, leaving you with the address bar.
+
+Tested on Proton UI. Photon is not recommended.
 
 ## Install
 
